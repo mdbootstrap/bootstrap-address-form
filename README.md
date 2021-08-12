@@ -111,4 +111,4 @@ Simple example of address form on checkout
 </div>
 ```
 
-#### You can see more customization examples on the [📄 Address Form documentation page](https://mdbootstrap.com/docs/standard/extended/bootstrap-address-form/)
+#### Much more examples and a detailed description can be found at [📄 Address Form documentation page](https://mdbootstrap.com/docs/standard/extended/bootstrap-address-form/)
